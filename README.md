@@ -36,4 +36,3 @@ In this project, we'll compare these two types of posts to determine the followi
 1. Do Ask HN or Show HN posts receive more comments on average?
 2. Do posts created at a certain time receive more comments on average?
 
-Let's get started by importing the necessary libraries and reading the dataset into a list of lists.
